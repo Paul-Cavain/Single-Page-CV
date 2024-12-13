@@ -5,5 +5,5 @@
     git clone https://github.com/Paul-Cavain/Single-Page-CV.git
 
 #### `Links`
-Solution url: https://github.com/Paul-Cavain/RoadMap/tree/master/Frontend%20Projects/Single-Page-CV
-Live Preview url: https://single-page-cv-three.vercel.app/
+#### Solution url: https://github.com/Paul-Cavain/RoadMap/tree/master/Frontend%20Projects/Single-Page-CV
+#### Live Preview url: https://single-page-cv-three.vercel.app/
