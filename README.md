@@ -2,7 +2,7 @@
 #### This is a html project looking for enhancing html basic knowledge particulary in Semantic html, SEO Meta tags, open graph tags and favicon.
 
 #### `Project URL`
-    https://github.com/Paul-Cavain/Single-Page-CV
+    https://roadmap.sh/projects/single-page-cv
 
 #### `Installation.`
     git clone https://github.com/Paul-Cavain/Single-Page-CV.git
